@@ -32,7 +32,7 @@ Looking at the correlation coefficient of the taxe features the average was -0.0
   The last area I looked at with the data was trade. Trade grew rapidly over the last 40 years. The average trade as a percent of GDP was a little over 60% in 1980. By the end of 2017 that number rose to over 85%. This was facilitated be a decrease in tariffs. The average tariff rate was 4.5% in 1990 and then decreassed to 2% in in 2017. The increase in trade also ment a growth in imports for exports. The data showed a strong corelation between GDP growth and growth in imports and exports.  
 
 ## New Regression Model  
-I made a new model that used annual import growth and annual export growth to try and predict GDP growth. The new model preformed much better than the first model using taxes.
+I made a new model that used annual import growth and annual export growth to try and predict GDP growth. The new model preformed much better than the first model using taxes. 
 ## Conclusion
-  The model had very few legal terms that were the top influencers on the model. The model was deciding on other factors when determining its prediction. This leads me to believe that how legal problems are solved are very similar. https://public.tableau.com/profile/nicholas.r.steele#!/vizhome/WorldBankData_16209578927590/TradeDashboard
+   https://public.tableau.com/profile/nicholas.r.steele#!/vizhome/WorldBankData_16209578927590/TradeDashboard
 
